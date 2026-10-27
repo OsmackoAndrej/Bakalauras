@@ -1,5 +1,5 @@
 # Bakalauras
-Diplominisdarbas
+Diplominis darbas
 
 Tema : 
 
